@@ -3,3 +3,4 @@
 Tạo mỗi Lab là 1 repo nên up lại
 # TUAN 04
 Do quên tạo file .gitignore nên tạo lại file repo mới
+Chuyển sang dùng VS Code do ko quen commit code bằng VS
