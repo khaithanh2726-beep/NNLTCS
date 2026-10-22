@@ -1,3 +1,0 @@
-USE QLSinhVien;
-GO
-SELECT * FROM Lop;
